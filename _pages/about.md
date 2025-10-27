@@ -7,8 +7,9 @@ layout: post
 ---
 
 This is a link to my publications [list](https;//michaeledwards.org.uk/publications) this is an about page.
-This is the custom domain for our website [link](https://kingscrossfrombelow.co.uk/). 
+This is the custom domain for our [website](https://kingscrossfrombelow.co.uk/). 
 ![Marx Engels chating Bishkek, Kyrgyztan](https://github.com/user-attachments/assets/8a260ce1-2fac-4a5c-9ea8-83649eaa5201)
+
 
 
 
